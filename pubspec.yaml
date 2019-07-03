@@ -1,0 +1,16 @@
+name: redux_persist
+description: Persist Redux State with custom storage engines and serializers
+version: 0.8.2
+homepage: https://github.com/Cretezy/redux_persist/tree/master/packages/redux_persist
+author: Charles Crete <charles@cretezy.com>
+
+environment:
+  sdk: ">=2.0.0-dev <3.0.0"
+
+dependencies:
+  redux: "^3.0.0"
+  synchronized: "^2.0.2+1"
+  meta: "^1.1.0"
+
+dev_dependencies:
+  test: "^1.0.0"
